@@ -1,5 +1,7 @@
 
-# nmf recommender
+# TCC - Fatoração de Matrizes Não Negativas (NMF) aplicada a Sistemas de Recomendação
+
+autores: Leandro de Araújo Lima, Fernando Nascimento Oliveira, Lucas Lacerda Antunes
 
 ## Como executar o código
 
